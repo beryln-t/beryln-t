@@ -10,11 +10,11 @@ I am excited to continue developing my skills in web front-end development and o
 
 ## Latest Projects
 
- <p align="center"><img src="https://i.imgur.com/boMU6HV.jpg" width="70%" height="70%"> </p>
- <p align="center">[GlowGetter](https://glowgetter.onrender.com/)</p>
-  <p align="center"><img src="https://i.imgur.com/ZNGMm8j.png" width="70%" height="70%"> </p>
- [Sephora Replica](https://sephora-main.cyclic.app/)
-   <p align="center"><img src="https://i.imgur.com/LAkTmrA.png" width="70%" height="70%"> </p>
- <p align="center">[BuskFeed](https://buskfeed.cyclic.app/)</p>
- <p align="center"><img src="https://i.imgur.com/5Hd2OMb.png" width="70%" height="70%"> </p>
- <p align="center">[Match the Colours](https://beryln-t.github.io/Project-1-Memory-Game/)</p>
+ <p align="center"><img src="https://i.imgur.com/boMU6HV.jpg" width="50%" height="50%"> </p>
+ <p align="center">GlowGetter:(https://glowgetter.onrender.com/)</p>
+  <p align="center"><img src="https://i.imgur.com/ZNGMm8j.png" width="50%" height="50%"> </p>
+ <p align="center">Sephora Replica:(https://sephora-main.cyclic.app/)</p>
+   <p align="center"><img src="https://i.imgur.com/LAkTmrA.png" width="50%" height="50%"> </p>
+ <p align="center">BuskFeed:(https://buskfeed.cyclic.app/)</p>
+ <p align="center"><img src="https://i.imgur.com/5Hd2OMb.png" width="50%" height="50%"> </p>
+ <p align="center">Match the Colours:(https://beryln-t.github.io/Project-1-Memory-Game/)</p>
